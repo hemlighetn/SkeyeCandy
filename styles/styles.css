@@ -10,7 +10,7 @@ body {
     height: 100vh;
 }
 #background {
-    background-image: url("./images/s260207skeyecandypic.jpg");
+    background-image: url("images/s260207skeyecandypic.jpg");
      height: 100vh;
     width: 100%;
     background-size: cover;
