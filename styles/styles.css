@@ -10,7 +10,7 @@ body {
     height: 100vh;
 }
 #background {
-    background-image: url("../images/260206skeyecandypic.jpg");
+    background-image: url("./images/260207skeyecandypic.jpg");
      height: 100vh;
     width: 100%;
     background-size: cover;
@@ -27,6 +27,7 @@ body {
         0 -1px 1px rgba(255, 255, 255, 0.3), /* Top-left light highlight */
         0 3px 4px rgba(0, 0, 0, 0.2);   
 }
+
 
 
 
