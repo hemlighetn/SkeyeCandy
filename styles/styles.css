@@ -31,6 +31,24 @@ body {
         0 -1px 1px rgba(255, 255, 255, 0.3), /* Top-left light highlight */
         0 3px 4px rgba(0, 0, 0, 0.2);   
 }
+@media screen and (max-width: 700px) {
+/*body, .home-grid {
+    display: flex;
+    height: auto;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+} 
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}*/
+#message {
+    /*font-size: 4em;*/
+    margin: -30vh; 
+}   
+} 
 
 
 
